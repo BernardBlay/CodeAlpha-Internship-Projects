@@ -11,21 +11,21 @@ As part of my cybersecurity training, I built and documented three core projects
 ### 1. 📡 Packet Sniffer
 A Python-based real-time network packet sniffer using Scapy and Flask for dashboard visualization.
 
-🔗 [`PacketSniffer/`](./PacketSniffer)
+🔗 [`PacketSniffer/`](https://github.com/BernardBlay/Packet-Sniffer)
 
 ---
 
 ### 2. 🔍 Network Anomaly Detection System
 A lightweight, signature-free anomaly detection system built to flag unusual network behavior.
 
-🔗 [`AnomalyDetection/`](./AnomalyDetection)
+🔗 [`AnomalyDetection/`](https://github.com/BernardBlay/Network-Anomaly-Detector)
 
 ---
 
 ### 3. 🔐 Secure Coding Review
 A comprehensive security audit of a Flask web app focused on identifying and remediating web vulnerabilities.
 
-🔗 [`SecureCodeReview/`](./SecureCodeReview)
+🔗 [`SecureCodeReview/`](https://github.com/BernardBlay/Secure-Code-Review)
 
 ---
 
